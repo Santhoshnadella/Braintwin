@@ -46,6 +46,9 @@ Built as a **9-phase Jupyter Notebook series**, it seamlessly fuses:
 | **Full Research Paper**           | Peer-review ready manuscript (April 2026)        | soon |
 
 ---
+v1-https://colab.research.google.com/drive/1r6ThdjsK4eQmE27PPOh9gIn93cPmeKgC?usp=sharing
+v2-https://colab.research.google.com/drive/1ahuaE3kywz8Gz7rMy591eYBhA51dFEtO?usp=sharing
+v3-https://colab.research.google.com/drive/1gBSSLqPBfgpp_qr_L69vxnwUrkvzJ1LK?usp=sharing
 
 ## 🚀 Key Features
 
