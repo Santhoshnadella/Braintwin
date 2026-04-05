@@ -63,7 +63,7 @@ Built as a **9-phase Jupyter Notebook series**, it seamlessly fuses:
 
 ## 🛠️ 9-Phase Framework Architecture
 
-```mermaid
+
 flowchart TD
     A[1. Neuroscience Foundations] --> B[2. Multi-Modal Data Acquisition]
     B --> C[3. Preprocessing & ComBat Harmonization]
