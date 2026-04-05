@@ -46,11 +46,12 @@ Built as a **9-phase Jupyter Notebook series**, it seamlessly fuses:
 | **Full Research Paper**           | Peer-review ready manuscript (April 2026)        | https://zenodo.org/records/19429989 |
 
 ---
-v1-https://colab.research.google.com/drive/1r6ThdjsK4eQmE27PPOh9gIn93cPmeKgC?usp=sharing
 
-v2-https://colab.research.google.com/drive/1ahuaE3kywz8Gz7rMy591eYBhA51dFEtO?usp=sharing
+## Notebooks
 
-v3-https://colab.research.google.com/drive/1gBSSLqPBfgpp_qr_L69vxnwUrkvzJ1LK?usp=sharing
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r6ThdjsK4eQmE27PPOh9gIn93cPmeKgC?usp=sharing) v1
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ahuaE3kywz8Gz7rMy591eYBhA51dFEtO?usp=sharing) v2
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gBSSLqPBfgpp_qr_L69vxnwUrkvzJ1LK?usp=sharing) v3
 
 ## 🚀 Key Features
 
