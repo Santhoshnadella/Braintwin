@@ -43,7 +43,7 @@ Built as a **9-phase Jupyter Notebook series**, it seamlessly fuses:
 | Resource                          | Description                                      | Link |
 |-----------------------------------|--------------------------------------------------|------|
 | **Comprehensive Study Document**  | 25-page Neuro-AI Knowledge Compendium            | [`BrainTwin_Comprehensive_Study_Document.pdf`](BrainTwin_Comprehensive_Study_Document.pdf) |
-| **Full Research Paper**           | Peer-review ready manuscript (April 2026)        | [`BrainDigitalTwin_ResearchPaper.pdf`](BrainDigitalTwin_ResearchPaper.pdf) |
+| **Full Research Paper**           | Peer-review ready manuscript (April 2026)        | soon |
 
 ---
 
